@@ -10,6 +10,9 @@ Program the drone:bit to take off and do foursquare with an increase and decreas
 ## Video Demonstration <!--Video embedded as image wrapped in a link-->
 [![Hover video demonstration](https://img.youtube.com/vi/zqUvSMOW19Q/0.jpg)](https://youtu.be/zqUvSMOW19Q)
 
+## Controller Code
+To use the remote landing feature, a second microbit must be loaded with the remote landing code, which can be found at [https://github.com/Microbit-Education/controller](https://github.com/Microbit-Education/controller).
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
